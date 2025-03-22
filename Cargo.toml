@@ -1,0 +1,12 @@
+[package]
+name = "markdown_editor"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+gtk4 = "0.9.5"
+pango = "0.14"
+glib = "0.14"
+regex = "1.5"
+lazy_static = "1.4"
+rand = "0.8"
