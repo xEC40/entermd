@@ -211,10 +211,13 @@ button#theme_toggle.dark image {
 ";
 
 //  TODO:
+//  -----
+// - rewrite in x86 (?)
+//
 // - Create codeblocks on my website with markdown editor's output
-// - rewrite in x86
 // - live browser updates?
 // - markdown + html syntax highlighting
+//
 //
 
 impl MarkdownEditor {
