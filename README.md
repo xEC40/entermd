@@ -1,4 +1,9 @@
+![entermd_prototype](entermd_prototype.gif)
+
+
 # entermd
+
+
 
 #### live md --> html translations, using Rust.
 
